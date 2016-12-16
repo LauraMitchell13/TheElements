@@ -1,0 +1,165 @@
+nav { text-align: right; }
+nav ul li { display: inline-block; }
+.nav_item {
+	padding: 10px 20px;
+	display: inline-block;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #7e7d7e;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #919091;
+}
+section { padding: 5px; }
+
+.sectionOne {
+height: 100vh;	
+text-align: center;
+    
+    background-color: #9a60a5;
+    background-image: url(../images/background.svg);
+    background-repeat: no-repeat;
+    background-size: 90%;
+}
+
+}
+
+.sectionTwo {
+height: 90vh;	
+background-color: #919091;
+text-align:left;
+}
+
+.sectionThree {
+height: 80vh;	
+background-color: #919091;
+text-align: left;
+}
+
+.sectionFour {
+height: 100vh;	
+background-color: #919091;
+text-align: left;
+}
+
+.sectionFive {
+height: 100vh;	
+background-color: #919091;
+text-align: left;
+}
+
+.sectionSix {
+height: 90vh;	
+background-color: #919091;
+text-align: left;
+}
+
+.sectionSeven {
+height: 10vh;	
+background-color: #919091;
+text-align: left;
+}
+
+.Magnesium {width: 35vw; float: right;}
+.Mg {width:30vw; float:left;}
+
+.Helium {width: 35vw; float: right;}
+.He {width:30vw; float:left;}
+
+.Lithium {width: 35vw; float: right;}
+.Li {width:30vw; float:left;}
+
+.Carbon {width: 35vw; float: right;}
+.C {width:30vw; float:left;}
+
+.Calcium {width: 35vw; float: right;}
+.Ca {width:30vw; float:left;}
+
+.left {float: left;}
+.right {float: right;}
+
+
+h1 {
+    color: #fff;
+font-family: 'Bungee', cursive;
+    text-align: center;
+    font-size: 5em;
+    padding-top: 2em;
+}
+
+h2 {
+    color: #fff;
+font-family: 'Bungee', cursive;
+    text-align: center;
+    font-size: 3em;
+    padding-top: -0.2em;
+}
+p {
+    color: #000;
+font-family: 'Ubuntu', sans-serif;
+    font-size: 1.5em;
+    padding-top: 0;
+}
+
+
+
+
+
+<style>
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 700px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+</style>
