@@ -32,7 +32,7 @@ section { padding: 5px; }
 .sectionOne {
 height: 133vh;	
 text-align: center;
-    background-color: #9a60a5;
+    background-color:whitesmoke;
     background-image: url(../images/background.svg);
     background-repeat: no-repeat;
     background-size: 100%;
