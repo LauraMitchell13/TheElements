@@ -135,27 +135,49 @@ background-color: #919091;
 text-align: left;
 }
 
-.Magnesium {width: 35vw; float: right;}
-.Mg {width:30vw; float:left;}
+.Magnesium {width: 35vw; float: right;
+padding-right: 5em;
+padding-top: 3em;}
+.Mg {width:30vw; float:left;
+padding-left: 5em;
+padding-top: 3em;}
 
-.Helium {width: 35vw; float: right;}
-.He {width:30vw; float:left;}
+.Helium {width: 35vw; float: right;
+padding-right: 5em;
+padding-top: 3em;}
+.He {width:30vw; float:left;
+padding-left: 5em;
+padding-top: 3em;}
 
-.Lithium {width: 35vw; float: right;}
-.Li {width:30vw; float:left;}
+.Lithium {width: 35vw; float: right;
+padding-right: 5em;
+padding-top: 3em;}
+.Li {width:30vw; float:left;
+padding-left: 5em;
+padding-top: 3em;}
 
-.Carbon {width: 35vw; float: right;}
-.C {width:30vw; float:left;}
+.Carbon {width: 35vw; float: right;
+padding-right: 5em;
+padding-top: 3em;}
+.C {width:30vw; float:left;
+padding-left: 5em;
+padding-top: 3em;}
 
-.Calcium {width: 35vw; float: right;}
-.Ca {width:30vw; float:left;}
+.Calcium {width: 35vw; 
+    float: right;
+padding-right: 5em;
+padding-top: 3em;}
+.Ca {width:30vw; 
+    float:left;
+padding-left: 5em;
+padding-top: 3em;}
 
 .left {float: left;}
 .right {float: right;}
 
 
 h1 {
-    color: #fff;
+    color: #9a60a5;
 font-family: 'Bungee', cursive;
     text-align: center;
     font-size: 5em;
