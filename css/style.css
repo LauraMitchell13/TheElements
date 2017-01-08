@@ -99,8 +99,6 @@ text-align: center;
     background-size: 100%;
 }
 
-}
-
 .sectionTwo {
 height: 90vh;	
 background-color: #919091;
@@ -114,7 +112,7 @@ text-align: left;
 }
 
 .sectionFour {
-height: 100vh;	
+height: 110vh;	
 background-color: #919091;
 text-align: left;
 }
@@ -146,7 +144,7 @@ padding-top: 3em;}
 
 .Helium {width: 35vw; float: right;
 padding-right: 5em;
-padding-top: 3em;}
+padding-top: 0.3em;}
 .He {width:30vw; float:left;
 padding-left: 5em;
 padding-top: 3em;}
@@ -160,15 +158,15 @@ padding-top: 3em;}
 
 .Carbon {width: 35vw; float: right;
 padding-right: 5em;
-padding-top: 3em;}
+padding-top: 0em;}
 .C {width:30vw; float:left;
 padding-left: 5em;
-padding-top: 3em;}
+padding-top: 5em;}
 
 .Calcium {width: 35vw; 
     float: right;
 padding-right: 5em;
-padding-top: 3em;}
+padding-top: 1em;}
 .Ca {width:30vw; 
     float:left;
 padding-left: 5em;
