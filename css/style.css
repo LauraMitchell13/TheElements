@@ -1,16 +1,45 @@
-nav { text-align: right;
-    background-color:#919091; 
+nav { text-align: center; 
+    padding-top: 1em;
+    
 }
-nav ul li { display: inline-block; }
-.nav_item {
+nav ul li { display: inline-block;
+align-content: center;}
 
-	padding: 10px 20px;
+.nav_item {
+    background-color: #82BF56;
+	padding: 20px 30px;
+	display: inline-block;
+}
+
+.nav_item2 {
+    background-color: #E74C3C;
+	padding: 20px 30px;
+	display: inline-block;
+}
+
+.nav_item3 {
+    background-color: #F2CF66;
+	padding: 20px 30px;
+	display: inline-block;
+}
+
+.nav_item4 {
+    background-color: #f1a21f;
+	padding: 20px 30px;
+	display: inline-block;
+}
+
+.nav_item5 {
+    background-color: #9a60a5;
+	padding: 20px 30px;
 	display: inline-block;
 }
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+ padding-left: 5em;
+    overflow: hidden;
+    background-color: #3498DB;
     overflow: hidden;
     top: 0;
     width: 100%;
@@ -18,7 +47,23 @@ ul {
 
 li {
     float: left;
+}
+
+li a {
+    font-family: 'Ubuntu', sans-serif;
     display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 25px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #54575e;
+}
+
+.active {
+    background-color: #3498DB;
 }
 
 
@@ -52,9 +97,6 @@ li {
 {
 	background-color: #E74C3C;
 	border-bottom: 5px solid #BD3E31;
-    border-top: 5px solid #BD3E31;
-    border-left: 5px solid #BD3E31;
-    border-right: 5px solid #BD3E31;
 	text-shadow: 0px -2px #BD3E31;
 }
 
@@ -106,37 +148,37 @@ text-align: center;
 
 .sectionTwo {
 height: 90vh;	
-background-color: #919091;
+ background-color: #3498DB;
 text-align:left;
 }
 
 .sectionThree {
 height: 110vh;	
-background-color: #919091;
+ background-color: #3498DB;
 text-align: left;
 }
 
 .sectionFour {
 height: 110vh;	
-background-color: #919091;
+ background-color: #3498DB;
 text-align: left;
 }
 
 .sectionFive {
 height: 100vh;	
-background-color: #919091;
+ background-color: #3498DB;
 text-align: left;
 }
 
 .sectionSix {
 height: 90vh;	
-background-color: #919091;
+ background-color: #3498DB;
 text-align: left;
 }
 
 .sectionSeven {
 height: 10vh;	
-background-color: #919091;
+ background-color: #3498DB;
 text-align: left;
 }
 
