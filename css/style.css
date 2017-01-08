@@ -1,7 +1,9 @@
-nav { text-align: right; }
+nav { text-align: right;
+    background-color:#919091; 
+}
 nav ul li { display: inline-block; }
 .nav_item {
-    background-color:#919091; 
+
 	padding: 10px 20px;
 	display: inline-block;
 }
@@ -106,7 +108,7 @@ text-align:left;
 }
 
 .sectionThree {
-height: 80vh;	
+height: 110vh;	
 background-color: #919091;
 text-align: left;
 }
@@ -137,10 +139,10 @@ text-align: left;
 
 .Magnesium {width: 35vw; float: right;
 padding-right: 5em;
-padding-top: 3em;}
+padding-top: 1em;}
 .Mg {width:30vw; float:left;
 padding-left: 5em;
-padding-top: 3em;}
+padding-top: 6em;}
 
 .Helium {width: 35vw; float: right;
 padding-right: 5em;
@@ -196,4 +198,8 @@ p {
 font-family: 'Ubuntu', sans-serif;
     font-size: 1.5em;
     padding-top: 0;
+}
+
+.madeby {
+    
 }
