@@ -32,11 +32,11 @@ li {
 {
 	position: relative;
     font-family: 'Ubuntu', sans-serif;
-	padding: 10px 40px;
+	padding: 20px 80px;
   margin: 10px 73px 35px 5px;
   float: inherit;
 	border-radius: 15px;
-	font-size: 25px;
+	font-size: 35px;
 	color: #FFF;
 	text-decoration: none;	
 }
