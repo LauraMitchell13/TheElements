@@ -30,10 +30,10 @@ li {
 
 .action-button
 {
-	position: relative;
+	position:relative;
     font-family: 'Ubuntu', sans-serif;
 	padding: 20px 80px;
-  margin: 10px 73px 35px 5px;
+  margin: 15px 85px 85px 15px;
   float: inherit;
 	border-radius: 15px;
 	font-size: 35px;
@@ -52,6 +52,9 @@ li {
 {
 	background-color: #E74C3C;
 	border-bottom: 5px solid #BD3E31;
+    border-top: 5px solid #BD3E31;
+    border-left: 5px solid #BD3E31;
+    border-right: 5px solid #BD3E31;
 	text-shadow: 0px -2px #BD3E31;
 }
 
