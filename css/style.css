@@ -1,5 +1,5 @@
 nav { text-align: center; 
-    padding-top: 1em;
+    padding-top: 0em;
     
 }
 nav ul li { display: inline-block;
@@ -153,6 +153,7 @@ text-align:left;
 }
 
 .sectionThree {
+    padding-top: 5em;
 height: 110vh;	
  background-color: #3498DB;
 text-align: left;
