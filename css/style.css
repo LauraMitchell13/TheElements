@@ -73,6 +73,13 @@ li {
 	text-shadow: 0px -2px #754b7f;
 }
 
+.orange
+{
+	background-color: #f1a21f;
+	border-bottom: 5px solid #c9821b;
+	text-shadow: 0px -2px #c9821b;
+}
+
 .action-button:active
 {
 	transform: translate(0px,5px);
