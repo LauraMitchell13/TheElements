@@ -1,6 +1,7 @@
 nav { text-align: right; }
 nav ul li { display: inline-block; }
 .nav_item {
+    background-color:#919091; 
 	padding: 10px 20px;
 	display: inline-block;
 }
@@ -30,9 +31,9 @@ li {
 	position: relative;
     font-family: 'Ubuntu', sans-serif;
 	padding: 10px 40px;
-  margin: 0px 10px 10px 0px;
-  float: left;
-	border-radius: 10px;
+  margin: 10px 73px 35px 5px;
+  float: inherit;
+	border-radius: 15px;
 	font-size: 25px;
 	color: #FFF;
 	text-decoration: none;	
@@ -64,6 +65,7 @@ li {
 	background-color: #F2CF66;
 	border-bottom: 5px solid #D1B358;
 	text-shadow: 0px -2px #D1B358;
+
 }
 
 .purple
@@ -181,7 +183,7 @@ h1 {
 font-family: 'Bungee', cursive;
     text-align: center;
     font-size: 8em;
-    padding-top: 2em;
+    padding-top: 0em;
 }
 
 h2 {
